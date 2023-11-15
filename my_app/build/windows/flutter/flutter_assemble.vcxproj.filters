@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\repos\bcc-ifc-opt3-mobile-development-2023-widgets-input\my_app\build\windows\CMakeFiles\1fc1ccd71c2bb0abb1d596b5806d91ec\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\repos\bcc-ifc-opt3-mobile-development-2023-widgets-input\my_app\build\windows\CMakeFiles\dbc35d6d6597fa5c2a0a7d378ae55b34\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\repos\bcc-ifc-opt3-mobile-development-2023-widgets-input\my_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Documents\repos\bcc-ifc-opt3-mobile-development-2023-widgets-input\my_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5247D337-A1AF-3300-A333-EA69420CDDF1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
