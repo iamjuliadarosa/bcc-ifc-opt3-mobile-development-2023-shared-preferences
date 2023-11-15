@@ -1,0 +1,76 @@
+# Arquivos a serem ignorados
+arquivo_a_ser_ignorado.txt
+logs/
+
+# Ignore arquivos .DS_Store em sistemas macOS
+.DS_Store
+
+# Ignore arquivos temporários
+*.tmp
+
+# Ignore arquivos de configuração específicos do IDE
+.idea/
+.vscode/
+# Arquivos e pastas específicos do Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+/.idea/
+.packages
+.vscode/
+*.iml
+pubspec.lock
+flutter_settings/.settings
+
+# Dependendo do seu ambiente de desenvolvimento, você pode adicionar entradas adicionais.
+# Android
+android/app/.gradle
+android/app/build/
+android/build/
+android/gradle/wrapper/gradle-wrapper.properties
+android/gradle/wrapper/gradle-wrapper.jar
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter-Structs.h
+
+# Visual Studio Code (se você estiver usando VS Code)
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Android Studio (se você estiver usando Android Studio)
+.idea/caches/
+.idea/libraries/
+.idea/modules/
+.idea/workspace.xml
+.idea/misc.xml
+.idea/navEditor.xml
+.idea/vcs.xml
+.idea/vcs.xml
+.idea/dictionaries/
+.idea/encodings.xml
+
+# Qualquer arquivo gerado durante a execução do aplicativo
+*.iml
+.idea/
+.vscode/
+*.swp
+
+# Arquivos e pastas específicos do projeto (gerados por outros sistemas)
+.DS_Store
+*.log
+*.log.*
+*.logs
+*.tmp
+Thumbs.db
+ehthumbs.db
+node_modules/
+package-lock.json
